@@ -1,0 +1,1 @@
+# Accepts a .txt file with an encoded message and returns the decoded message. The file consists of a number of lines in which a single word is preceded by a number. The program returns the decoded message as a string. The decoded message from the included file is intentionally gibberish. Created by Jacob Hexamer.
